@@ -1,0 +1,12 @@
+com/guru99/automation/models/Usuario.java
+ com.guru99.automation.models.Usuario
+com/guru99/automation/models/DataInjection.java
+ com.guru99.automation.models.DataInjection
+com/guru99/automation/pageobjects/LoginPageObject.java
+ com.guru99.automation.pageobjects.LoginPageObject
+com/guru99/automation/steps/LoginSteps.java
+ com.guru99.automation.steps.LoginSteps
+com/guru99/automation/pageobjects/RegisterAccountPageObject.java
+ com.guru99.automation.pageobjects.RegisterAccountPageObject
+com/guru99/automation/steps/RegisterAccountSteps.java
+ com.guru99.automation.steps.RegisterAccountSteps
